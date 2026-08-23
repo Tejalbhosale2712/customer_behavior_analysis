@@ -28,7 +28,6 @@ The dataset contains customer shopping and purchase-related information used to 
 
 * **Python** – Data loading, cleaning, and Exploratory Data Analysis
 * **Pandas & NumPy** – Data manipulation and analysis
-* **Matplotlib / Seaborn** – Data visualization
 * **PostgreSQL** – SQL queries and database analysis
 * **pgAdmin** – PostgreSQL database management
 * **Power BI** – Interactive dashboard creation and visualization
